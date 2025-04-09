@@ -1,18 +1,19 @@
 {
-"com.funface.ai": {
-"ad_manager": {
-"is_open_ads": true,
-"is_banner_ads": true,
-"is_native_ads": true,
-"is_rewared_ads": true,
-"is_interstitial_ads": true,
-"rewared_ads_unit_id": "/21775744923/example/rewarded",
-"banner_ad_unit_id_android": "/21775744923/example/fixed-size-banner",
-"native_ads_unit_id_android": "",
-"app_open_ad_unit_id_android": "/21775744923/example/app-open",
-"is_redirect_custom_impression": false,
-"interstitial_ad_unit_id_android": "/21775744923/example/interstitial",
-"native_video_ads_unit_id_android": ""
-}
-}
+    "com.funface.ai": {
+        "ad_manager": {
+            "jwt": "35678909876554332134567790076421",
+            "is_open_ads": true,
+            "is_banner_ads": true,
+            "is_native_ads": true,
+            "is_rewared_ads": true,
+            "is_interstitial_ads": true,
+            "rewared_ads_unit_id": "/21775744923/example/rewarded",
+            "banner_ad_unit_id_android": "/21775744923/example/fixed-size-banner",
+            "native_ads_unit_id_android": "",
+            "app_open_ad_unit_id_android": "/21775744923/example/app-open",
+            "is_redirect_custom_impression": false,
+            "interstitial_ad_unit_id_android": "/21775744923/example/interstitial",
+            "native_video_ads_unit_id_android": ""
+        }
+    }
 }
