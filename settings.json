@@ -13,7 +13,9 @@
             "app_open_ad_unit_id_android": "/21775744923/example/app-open",
             "is_redirect_custom_impression": false,
             "interstitial_ad_unit_id_android": "/21775744923/example/interstitial",
-            "native_video_ads_unit_id_android": ""
+            "native_video_ads_unit_id_android": "",
+            "onesignal":"639bfe1b-0997-4f03-9476-98654edf7204",
+            "attempt_image":[true, false, true, false, false, false, true, false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]
         }
     }
 }
